@@ -1,0 +1,12 @@
+/*  Extra styling to be done in here */
+body {
+  /* background-image: url('./images/wooden.gif');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; */
+}
+img {
+  height: 110px;
+  width: 130px;
+  filter: drop-shadow(1px 1px 2px #444);
+}
